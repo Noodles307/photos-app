@@ -1,0 +1,11 @@
+node_modules/
+!nodes_modules/.prisma
+**/dist
+**/build
+.git
+app/data
+app/cache
+app/tmp
+npm-debug.log
+.coverage
+.coverage.*

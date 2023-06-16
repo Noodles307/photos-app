@@ -1,0 +1,70 @@
+@font-face {
+    font-family: "icons";
+    src: url("./icons.ttf?8c5224483032aa2d15655bd1a7db1576") format("truetype");
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-audio:before {
+    content: "\f101";
+}
+.icon-circle-loader:before {
+    content: "\f102";
+}
+.icon-context-menu:before {
+    content: "\f103";
+}
+.icon-directory:before {
+    content: "\f104";
+}
+.icon-download:before {
+    content: "\f105";
+}
+.icon-empty:before {
+    content: "\f106";
+}
+.icon-eye:before {
+    content: "\f107";
+}
+.icon-file:before {
+    content: "\f108";
+}
+.icon-folder:before {
+    content: "\f109";
+}
+.icon-image:before {
+    content: "\f10a";
+}
+.icon-logout:before {
+    content: "\f10b";
+}
+.icon-logs:before {
+    content: "\f10c";
+}
+.icon-metrics:before {
+    content: "\f10d";
+}
+.icon-play:before {
+    content: "\f10e";
+}
+.icon-plus:before {
+    content: "\f10f";
+}
+.icon-select-all:before {
+    content: "\f110";
+}
+.icon-users:before {
+    content: "\f111";
+}
+.icon-video:before {
+    content: "\f112";
+}

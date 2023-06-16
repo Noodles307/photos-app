@@ -1,0 +1,8 @@
+{
+  "inputDir": "src/assets/icons",
+  "outputDir": "src/assets/fonts",
+  "fontTypes": ["ttf"],
+  "assetTypes": ["css", "ts"],
+  "fontsUrl": ".",
+  "normalize": true
+}
